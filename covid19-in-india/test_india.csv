@@ -1,0 +1,628 @@
+,Date,State/UnionTerritory,Deaths,Confirmed
+0,2020-05-13,Kerala,1.0,1.0
+1,2020-05-14,Kerala,1.0,1.0
+2,2020-05-15,Kerala,1.0,1.0
+3,2020-05-16,Kerala,1.0,1.0
+4,2020-05-17,Kerala,1.0,1.0
+5,2020-05-18,Kerala,1.0,1.0
+6,2020-05-19,Kerala,1.0,1.0
+7,2020-05-20,Kerala,1.0,1.0
+8,2020-05-21,Kerala,1.0,1.0
+9,2020-05-22,Kerala,1.0,1.0
+10,2020-05-23,Kerala,1.0,1.0
+11,2020-05-24,Kerala,1.0,1.0
+12,2020-05-25,Kerala,1.0,1.0
+13,2020-05-26,Kerala,1.0,1.0
+14,2020-05-27,Kerala,1.0,1.0
+15,2020-05-28,Kerala,1.0,1.0
+16,2020-05-29,Kerala,1.0,1.0
+17,2020-05-30,Kerala,1.0,1.0
+18,2020-05-31,Kerala,1.0,1.0
+0,2020-05-13,Telengana,1.0,1.0
+1,2020-05-14,Telengana,1.0,1.0
+2,2020-05-15,Telengana,1.0,1.0
+3,2020-05-16,Telengana,1.0,1.0
+4,2020-05-17,Telengana,1.0,1.0
+5,2020-05-18,Telengana,1.0,1.0
+6,2020-05-19,Telengana,1.0,1.0
+7,2020-05-20,Telengana,1.0,1.0
+8,2020-05-21,Telengana,1.0,1.0
+9,2020-05-22,Telengana,1.0,1.0
+10,2020-05-23,Telengana,1.0,1.0
+11,2020-05-24,Telengana,1.0,1.0
+12,2020-05-25,Telengana,1.0,1.0
+13,2020-05-26,Telengana,1.0,1.0
+14,2020-05-27,Telengana,1.0,1.0
+15,2020-05-28,Telengana,1.0,1.0
+16,2020-05-29,Telengana,1.0,1.0
+17,2020-05-30,Telengana,1.0,1.0
+18,2020-05-31,Telengana,1.0,1.0
+0,2020-05-13,Delhi,1.0,1.0
+1,2020-05-14,Delhi,1.0,1.0
+2,2020-05-15,Delhi,1.0,1.0
+3,2020-05-16,Delhi,1.0,1.0
+4,2020-05-17,Delhi,1.0,1.0
+5,2020-05-18,Delhi,1.0,1.0
+6,2020-05-19,Delhi,1.0,1.0
+7,2020-05-20,Delhi,1.0,1.0
+8,2020-05-21,Delhi,1.0,1.0
+9,2020-05-22,Delhi,1.0,1.0
+10,2020-05-23,Delhi,1.0,1.0
+11,2020-05-24,Delhi,1.0,1.0
+12,2020-05-25,Delhi,1.0,1.0
+13,2020-05-26,Delhi,1.0,1.0
+14,2020-05-27,Delhi,1.0,1.0
+15,2020-05-28,Delhi,1.0,1.0
+16,2020-05-29,Delhi,1.0,1.0
+17,2020-05-30,Delhi,1.0,1.0
+18,2020-05-31,Delhi,1.0,1.0
+0,2020-05-13,Rajasthan,1.0,1.0
+1,2020-05-14,Rajasthan,1.0,1.0
+2,2020-05-15,Rajasthan,1.0,1.0
+3,2020-05-16,Rajasthan,1.0,1.0
+4,2020-05-17,Rajasthan,1.0,1.0
+5,2020-05-18,Rajasthan,1.0,1.0
+6,2020-05-19,Rajasthan,1.0,1.0
+7,2020-05-20,Rajasthan,1.0,1.0
+8,2020-05-21,Rajasthan,1.0,1.0
+9,2020-05-22,Rajasthan,1.0,1.0
+10,2020-05-23,Rajasthan,1.0,1.0
+11,2020-05-24,Rajasthan,1.0,1.0
+12,2020-05-25,Rajasthan,1.0,1.0
+13,2020-05-26,Rajasthan,1.0,1.0
+14,2020-05-27,Rajasthan,1.0,1.0
+15,2020-05-28,Rajasthan,1.0,1.0
+16,2020-05-29,Rajasthan,1.0,1.0
+17,2020-05-30,Rajasthan,1.0,1.0
+18,2020-05-31,Rajasthan,1.0,1.0
+0,2020-05-13,Uttar Pradesh,1.0,1.0
+1,2020-05-14,Uttar Pradesh,1.0,1.0
+2,2020-05-15,Uttar Pradesh,1.0,1.0
+3,2020-05-16,Uttar Pradesh,1.0,1.0
+4,2020-05-17,Uttar Pradesh,1.0,1.0
+5,2020-05-18,Uttar Pradesh,1.0,1.0
+6,2020-05-19,Uttar Pradesh,1.0,1.0
+7,2020-05-20,Uttar Pradesh,1.0,1.0
+8,2020-05-21,Uttar Pradesh,1.0,1.0
+9,2020-05-22,Uttar Pradesh,1.0,1.0
+10,2020-05-23,Uttar Pradesh,1.0,1.0
+11,2020-05-24,Uttar Pradesh,1.0,1.0
+12,2020-05-25,Uttar Pradesh,1.0,1.0
+13,2020-05-26,Uttar Pradesh,1.0,1.0
+14,2020-05-27,Uttar Pradesh,1.0,1.0
+15,2020-05-28,Uttar Pradesh,1.0,1.0
+16,2020-05-29,Uttar Pradesh,1.0,1.0
+17,2020-05-30,Uttar Pradesh,1.0,1.0
+18,2020-05-31,Uttar Pradesh,1.0,1.0
+0,2020-05-13,Haryana,1.0,1.0
+1,2020-05-14,Haryana,1.0,1.0
+2,2020-05-15,Haryana,1.0,1.0
+3,2020-05-16,Haryana,1.0,1.0
+4,2020-05-17,Haryana,1.0,1.0
+5,2020-05-18,Haryana,1.0,1.0
+6,2020-05-19,Haryana,1.0,1.0
+7,2020-05-20,Haryana,1.0,1.0
+8,2020-05-21,Haryana,1.0,1.0
+9,2020-05-22,Haryana,1.0,1.0
+10,2020-05-23,Haryana,1.0,1.0
+11,2020-05-24,Haryana,1.0,1.0
+12,2020-05-25,Haryana,1.0,1.0
+13,2020-05-26,Haryana,1.0,1.0
+14,2020-05-27,Haryana,1.0,1.0
+15,2020-05-28,Haryana,1.0,1.0
+16,2020-05-29,Haryana,1.0,1.0
+17,2020-05-30,Haryana,1.0,1.0
+18,2020-05-31,Haryana,1.0,1.0
+0,2020-05-13,Ladakh,1.0,1.0
+1,2020-05-14,Ladakh,1.0,1.0
+2,2020-05-15,Ladakh,1.0,1.0
+3,2020-05-16,Ladakh,1.0,1.0
+4,2020-05-17,Ladakh,1.0,1.0
+5,2020-05-18,Ladakh,1.0,1.0
+6,2020-05-19,Ladakh,1.0,1.0
+7,2020-05-20,Ladakh,1.0,1.0
+8,2020-05-21,Ladakh,1.0,1.0
+9,2020-05-22,Ladakh,1.0,1.0
+10,2020-05-23,Ladakh,1.0,1.0
+11,2020-05-24,Ladakh,1.0,1.0
+12,2020-05-25,Ladakh,1.0,1.0
+13,2020-05-26,Ladakh,1.0,1.0
+14,2020-05-27,Ladakh,1.0,1.0
+15,2020-05-28,Ladakh,1.0,1.0
+16,2020-05-29,Ladakh,1.0,1.0
+17,2020-05-30,Ladakh,1.0,1.0
+18,2020-05-31,Ladakh,1.0,1.0
+0,2020-05-13,Tamil Nadu,1.0,1.0
+1,2020-05-14,Tamil Nadu,1.0,1.0
+2,2020-05-15,Tamil Nadu,1.0,1.0
+3,2020-05-16,Tamil Nadu,1.0,1.0
+4,2020-05-17,Tamil Nadu,1.0,1.0
+5,2020-05-18,Tamil Nadu,1.0,1.0
+6,2020-05-19,Tamil Nadu,1.0,1.0
+7,2020-05-20,Tamil Nadu,1.0,1.0
+8,2020-05-21,Tamil Nadu,1.0,1.0
+9,2020-05-22,Tamil Nadu,1.0,1.0
+10,2020-05-23,Tamil Nadu,1.0,1.0
+11,2020-05-24,Tamil Nadu,1.0,1.0
+12,2020-05-25,Tamil Nadu,1.0,1.0
+13,2020-05-26,Tamil Nadu,1.0,1.0
+14,2020-05-27,Tamil Nadu,1.0,1.0
+15,2020-05-28,Tamil Nadu,1.0,1.0
+16,2020-05-29,Tamil Nadu,1.0,1.0
+17,2020-05-30,Tamil Nadu,1.0,1.0
+18,2020-05-31,Tamil Nadu,1.0,1.0
+0,2020-05-13,Karnataka,1.0,1.0
+1,2020-05-14,Karnataka,1.0,1.0
+2,2020-05-15,Karnataka,1.0,1.0
+3,2020-05-16,Karnataka,1.0,1.0
+4,2020-05-17,Karnataka,1.0,1.0
+5,2020-05-18,Karnataka,1.0,1.0
+6,2020-05-19,Karnataka,1.0,1.0
+7,2020-05-20,Karnataka,1.0,1.0
+8,2020-05-21,Karnataka,1.0,1.0
+9,2020-05-22,Karnataka,1.0,1.0
+10,2020-05-23,Karnataka,1.0,1.0
+11,2020-05-24,Karnataka,1.0,1.0
+12,2020-05-25,Karnataka,1.0,1.0
+13,2020-05-26,Karnataka,1.0,1.0
+14,2020-05-27,Karnataka,1.0,1.0
+15,2020-05-28,Karnataka,1.0,1.0
+16,2020-05-29,Karnataka,1.0,1.0
+17,2020-05-30,Karnataka,1.0,1.0
+18,2020-05-31,Karnataka,1.0,1.0
+0,2020-05-13,Maharashtra,1.0,1.0
+1,2020-05-14,Maharashtra,1.0,1.0
+2,2020-05-15,Maharashtra,1.0,1.0
+3,2020-05-16,Maharashtra,1.0,1.0
+4,2020-05-17,Maharashtra,1.0,1.0
+5,2020-05-18,Maharashtra,1.0,1.0
+6,2020-05-19,Maharashtra,1.0,1.0
+7,2020-05-20,Maharashtra,1.0,1.0
+8,2020-05-21,Maharashtra,1.0,1.0
+9,2020-05-22,Maharashtra,1.0,1.0
+10,2020-05-23,Maharashtra,1.0,1.0
+11,2020-05-24,Maharashtra,1.0,1.0
+12,2020-05-25,Maharashtra,1.0,1.0
+13,2020-05-26,Maharashtra,1.0,1.0
+14,2020-05-27,Maharashtra,1.0,1.0
+15,2020-05-28,Maharashtra,1.0,1.0
+16,2020-05-29,Maharashtra,1.0,1.0
+17,2020-05-30,Maharashtra,1.0,1.0
+18,2020-05-31,Maharashtra,1.0,1.0
+0,2020-05-13,Punjab,1.0,1.0
+1,2020-05-14,Punjab,1.0,1.0
+2,2020-05-15,Punjab,1.0,1.0
+3,2020-05-16,Punjab,1.0,1.0
+4,2020-05-17,Punjab,1.0,1.0
+5,2020-05-18,Punjab,1.0,1.0
+6,2020-05-19,Punjab,1.0,1.0
+7,2020-05-20,Punjab,1.0,1.0
+8,2020-05-21,Punjab,1.0,1.0
+9,2020-05-22,Punjab,1.0,1.0
+10,2020-05-23,Punjab,1.0,1.0
+11,2020-05-24,Punjab,1.0,1.0
+12,2020-05-25,Punjab,1.0,1.0
+13,2020-05-26,Punjab,1.0,1.0
+14,2020-05-27,Punjab,1.0,1.0
+15,2020-05-28,Punjab,1.0,1.0
+16,2020-05-29,Punjab,1.0,1.0
+17,2020-05-30,Punjab,1.0,1.0
+18,2020-05-31,Punjab,1.0,1.0
+0,2020-05-13,Jammu and Kashmir,1.0,1.0
+1,2020-05-14,Jammu and Kashmir,1.0,1.0
+2,2020-05-15,Jammu and Kashmir,1.0,1.0
+3,2020-05-16,Jammu and Kashmir,1.0,1.0
+4,2020-05-17,Jammu and Kashmir,1.0,1.0
+5,2020-05-18,Jammu and Kashmir,1.0,1.0
+6,2020-05-19,Jammu and Kashmir,1.0,1.0
+7,2020-05-20,Jammu and Kashmir,1.0,1.0
+8,2020-05-21,Jammu and Kashmir,1.0,1.0
+9,2020-05-22,Jammu and Kashmir,1.0,1.0
+10,2020-05-23,Jammu and Kashmir,1.0,1.0
+11,2020-05-24,Jammu and Kashmir,1.0,1.0
+12,2020-05-25,Jammu and Kashmir,1.0,1.0
+13,2020-05-26,Jammu and Kashmir,1.0,1.0
+14,2020-05-27,Jammu and Kashmir,1.0,1.0
+15,2020-05-28,Jammu and Kashmir,1.0,1.0
+16,2020-05-29,Jammu and Kashmir,1.0,1.0
+17,2020-05-30,Jammu and Kashmir,1.0,1.0
+18,2020-05-31,Jammu and Kashmir,1.0,1.0
+0,2020-05-13,Andhra Pradesh,1.0,1.0
+1,2020-05-14,Andhra Pradesh,1.0,1.0
+2,2020-05-15,Andhra Pradesh,1.0,1.0
+3,2020-05-16,Andhra Pradesh,1.0,1.0
+4,2020-05-17,Andhra Pradesh,1.0,1.0
+5,2020-05-18,Andhra Pradesh,1.0,1.0
+6,2020-05-19,Andhra Pradesh,1.0,1.0
+7,2020-05-20,Andhra Pradesh,1.0,1.0
+8,2020-05-21,Andhra Pradesh,1.0,1.0
+9,2020-05-22,Andhra Pradesh,1.0,1.0
+10,2020-05-23,Andhra Pradesh,1.0,1.0
+11,2020-05-24,Andhra Pradesh,1.0,1.0
+12,2020-05-25,Andhra Pradesh,1.0,1.0
+13,2020-05-26,Andhra Pradesh,1.0,1.0
+14,2020-05-27,Andhra Pradesh,1.0,1.0
+15,2020-05-28,Andhra Pradesh,1.0,1.0
+16,2020-05-29,Andhra Pradesh,1.0,1.0
+17,2020-05-30,Andhra Pradesh,1.0,1.0
+18,2020-05-31,Andhra Pradesh,1.0,1.0
+0,2020-05-13,Uttarakhand,1.0,1.0
+1,2020-05-14,Uttarakhand,1.0,1.0
+2,2020-05-15,Uttarakhand,1.0,1.0
+3,2020-05-16,Uttarakhand,1.0,1.0
+4,2020-05-17,Uttarakhand,1.0,1.0
+5,2020-05-18,Uttarakhand,1.0,1.0
+6,2020-05-19,Uttarakhand,1.0,1.0
+7,2020-05-20,Uttarakhand,1.0,1.0
+8,2020-05-21,Uttarakhand,1.0,1.0
+9,2020-05-22,Uttarakhand,1.0,1.0
+10,2020-05-23,Uttarakhand,1.0,1.0
+11,2020-05-24,Uttarakhand,1.0,1.0
+12,2020-05-25,Uttarakhand,1.0,1.0
+13,2020-05-26,Uttarakhand,1.0,1.0
+14,2020-05-27,Uttarakhand,1.0,1.0
+15,2020-05-28,Uttarakhand,1.0,1.0
+16,2020-05-29,Uttarakhand,1.0,1.0
+17,2020-05-30,Uttarakhand,1.0,1.0
+18,2020-05-31,Uttarakhand,1.0,1.0
+0,2020-05-13,Odisha,1.0,1.0
+1,2020-05-14,Odisha,1.0,1.0
+2,2020-05-15,Odisha,1.0,1.0
+3,2020-05-16,Odisha,1.0,1.0
+4,2020-05-17,Odisha,1.0,1.0
+5,2020-05-18,Odisha,1.0,1.0
+6,2020-05-19,Odisha,1.0,1.0
+7,2020-05-20,Odisha,1.0,1.0
+8,2020-05-21,Odisha,1.0,1.0
+9,2020-05-22,Odisha,1.0,1.0
+10,2020-05-23,Odisha,1.0,1.0
+11,2020-05-24,Odisha,1.0,1.0
+12,2020-05-25,Odisha,1.0,1.0
+13,2020-05-26,Odisha,1.0,1.0
+14,2020-05-27,Odisha,1.0,1.0
+15,2020-05-28,Odisha,1.0,1.0
+16,2020-05-29,Odisha,1.0,1.0
+17,2020-05-30,Odisha,1.0,1.0
+18,2020-05-31,Odisha,1.0,1.0
+0,2020-05-13,Puducherry,1.0,1.0
+1,2020-05-14,Puducherry,1.0,1.0
+2,2020-05-15,Puducherry,1.0,1.0
+3,2020-05-16,Puducherry,1.0,1.0
+4,2020-05-17,Puducherry,1.0,1.0
+5,2020-05-18,Puducherry,1.0,1.0
+6,2020-05-19,Puducherry,1.0,1.0
+7,2020-05-20,Puducherry,1.0,1.0
+8,2020-05-21,Puducherry,1.0,1.0
+9,2020-05-22,Puducherry,1.0,1.0
+10,2020-05-23,Puducherry,1.0,1.0
+11,2020-05-24,Puducherry,1.0,1.0
+12,2020-05-25,Puducherry,1.0,1.0
+13,2020-05-26,Puducherry,1.0,1.0
+14,2020-05-27,Puducherry,1.0,1.0
+15,2020-05-28,Puducherry,1.0,1.0
+16,2020-05-29,Puducherry,1.0,1.0
+17,2020-05-30,Puducherry,1.0,1.0
+18,2020-05-31,Puducherry,1.0,1.0
+0,2020-05-13,West Bengal,1.0,1.0
+1,2020-05-14,West Bengal,1.0,1.0
+2,2020-05-15,West Bengal,1.0,1.0
+3,2020-05-16,West Bengal,1.0,1.0
+4,2020-05-17,West Bengal,1.0,1.0
+5,2020-05-18,West Bengal,1.0,1.0
+6,2020-05-19,West Bengal,1.0,1.0
+7,2020-05-20,West Bengal,1.0,1.0
+8,2020-05-21,West Bengal,1.0,1.0
+9,2020-05-22,West Bengal,1.0,1.0
+10,2020-05-23,West Bengal,1.0,1.0
+11,2020-05-24,West Bengal,1.0,1.0
+12,2020-05-25,West Bengal,1.0,1.0
+13,2020-05-26,West Bengal,1.0,1.0
+14,2020-05-27,West Bengal,1.0,1.0
+15,2020-05-28,West Bengal,1.0,1.0
+16,2020-05-29,West Bengal,1.0,1.0
+17,2020-05-30,West Bengal,1.0,1.0
+18,2020-05-31,West Bengal,1.0,1.0
+0,2020-05-13,Chhattisgarh,1.0,1.0
+1,2020-05-14,Chhattisgarh,1.0,1.0
+2,2020-05-15,Chhattisgarh,1.0,1.0
+3,2020-05-16,Chhattisgarh,1.0,1.0
+4,2020-05-17,Chhattisgarh,1.0,1.0
+5,2020-05-18,Chhattisgarh,1.0,1.0
+6,2020-05-19,Chhattisgarh,1.0,1.0
+7,2020-05-20,Chhattisgarh,1.0,1.0
+8,2020-05-21,Chhattisgarh,1.0,1.0
+9,2020-05-22,Chhattisgarh,1.0,1.0
+10,2020-05-23,Chhattisgarh,1.0,1.0
+11,2020-05-24,Chhattisgarh,1.0,1.0
+12,2020-05-25,Chhattisgarh,1.0,1.0
+13,2020-05-26,Chhattisgarh,1.0,1.0
+14,2020-05-27,Chhattisgarh,1.0,1.0
+15,2020-05-28,Chhattisgarh,1.0,1.0
+16,2020-05-29,Chhattisgarh,1.0,1.0
+17,2020-05-30,Chhattisgarh,1.0,1.0
+18,2020-05-31,Chhattisgarh,1.0,1.0
+0,2020-05-13,Chandigarh,1.0,1.0
+1,2020-05-14,Chandigarh,1.0,1.0
+2,2020-05-15,Chandigarh,1.0,1.0
+3,2020-05-16,Chandigarh,1.0,1.0
+4,2020-05-17,Chandigarh,1.0,1.0
+5,2020-05-18,Chandigarh,1.0,1.0
+6,2020-05-19,Chandigarh,1.0,1.0
+7,2020-05-20,Chandigarh,1.0,1.0
+8,2020-05-21,Chandigarh,1.0,1.0
+9,2020-05-22,Chandigarh,1.0,1.0
+10,2020-05-23,Chandigarh,1.0,1.0
+11,2020-05-24,Chandigarh,1.0,1.0
+12,2020-05-25,Chandigarh,1.0,1.0
+13,2020-05-26,Chandigarh,1.0,1.0
+14,2020-05-27,Chandigarh,1.0,1.0
+15,2020-05-28,Chandigarh,1.0,1.0
+16,2020-05-29,Chandigarh,1.0,1.0
+17,2020-05-30,Chandigarh,1.0,1.0
+18,2020-05-31,Chandigarh,1.0,1.0
+0,2020-05-13,Gujarat,1.0,1.0
+1,2020-05-14,Gujarat,1.0,1.0
+2,2020-05-15,Gujarat,1.0,1.0
+3,2020-05-16,Gujarat,1.0,1.0
+4,2020-05-17,Gujarat,1.0,1.0
+5,2020-05-18,Gujarat,1.0,1.0
+6,2020-05-19,Gujarat,1.0,1.0
+7,2020-05-20,Gujarat,1.0,1.0
+8,2020-05-21,Gujarat,1.0,1.0
+9,2020-05-22,Gujarat,1.0,1.0
+10,2020-05-23,Gujarat,1.0,1.0
+11,2020-05-24,Gujarat,1.0,1.0
+12,2020-05-25,Gujarat,1.0,1.0
+13,2020-05-26,Gujarat,1.0,1.0
+14,2020-05-27,Gujarat,1.0,1.0
+15,2020-05-28,Gujarat,1.0,1.0
+16,2020-05-29,Gujarat,1.0,1.0
+17,2020-05-30,Gujarat,1.0,1.0
+18,2020-05-31,Gujarat,1.0,1.0
+0,2020-05-13,Himachal Pradesh,1.0,1.0
+1,2020-05-14,Himachal Pradesh,1.0,1.0
+2,2020-05-15,Himachal Pradesh,1.0,1.0
+3,2020-05-16,Himachal Pradesh,1.0,1.0
+4,2020-05-17,Himachal Pradesh,1.0,1.0
+5,2020-05-18,Himachal Pradesh,1.0,1.0
+6,2020-05-19,Himachal Pradesh,1.0,1.0
+7,2020-05-20,Himachal Pradesh,1.0,1.0
+8,2020-05-21,Himachal Pradesh,1.0,1.0
+9,2020-05-22,Himachal Pradesh,1.0,1.0
+10,2020-05-23,Himachal Pradesh,1.0,1.0
+11,2020-05-24,Himachal Pradesh,1.0,1.0
+12,2020-05-25,Himachal Pradesh,1.0,1.0
+13,2020-05-26,Himachal Pradesh,1.0,1.0
+14,2020-05-27,Himachal Pradesh,1.0,1.0
+15,2020-05-28,Himachal Pradesh,1.0,1.0
+16,2020-05-29,Himachal Pradesh,1.0,1.0
+17,2020-05-30,Himachal Pradesh,1.0,1.0
+18,2020-05-31,Himachal Pradesh,1.0,1.0
+0,2020-05-13,Madhya Pradesh,1.0,1.0
+1,2020-05-14,Madhya Pradesh,1.0,1.0
+2,2020-05-15,Madhya Pradesh,1.0,1.0
+3,2020-05-16,Madhya Pradesh,1.0,1.0
+4,2020-05-17,Madhya Pradesh,1.0,1.0
+5,2020-05-18,Madhya Pradesh,1.0,1.0
+6,2020-05-19,Madhya Pradesh,1.0,1.0
+7,2020-05-20,Madhya Pradesh,1.0,1.0
+8,2020-05-21,Madhya Pradesh,1.0,1.0
+9,2020-05-22,Madhya Pradesh,1.0,1.0
+10,2020-05-23,Madhya Pradesh,1.0,1.0
+11,2020-05-24,Madhya Pradesh,1.0,1.0
+12,2020-05-25,Madhya Pradesh,1.0,1.0
+13,2020-05-26,Madhya Pradesh,1.0,1.0
+14,2020-05-27,Madhya Pradesh,1.0,1.0
+15,2020-05-28,Madhya Pradesh,1.0,1.0
+16,2020-05-29,Madhya Pradesh,1.0,1.0
+17,2020-05-30,Madhya Pradesh,1.0,1.0
+18,2020-05-31,Madhya Pradesh,1.0,1.0
+0,2020-05-13,Bihar,1.0,1.0
+1,2020-05-14,Bihar,1.0,1.0
+2,2020-05-15,Bihar,1.0,1.0
+3,2020-05-16,Bihar,1.0,1.0
+4,2020-05-17,Bihar,1.0,1.0
+5,2020-05-18,Bihar,1.0,1.0
+6,2020-05-19,Bihar,1.0,1.0
+7,2020-05-20,Bihar,1.0,1.0
+8,2020-05-21,Bihar,1.0,1.0
+9,2020-05-22,Bihar,1.0,1.0
+10,2020-05-23,Bihar,1.0,1.0
+11,2020-05-24,Bihar,1.0,1.0
+12,2020-05-25,Bihar,1.0,1.0
+13,2020-05-26,Bihar,1.0,1.0
+14,2020-05-27,Bihar,1.0,1.0
+15,2020-05-28,Bihar,1.0,1.0
+16,2020-05-29,Bihar,1.0,1.0
+17,2020-05-30,Bihar,1.0,1.0
+18,2020-05-31,Bihar,1.0,1.0
+0,2020-05-13,Manipur,1.0,1.0
+1,2020-05-14,Manipur,1.0,1.0
+2,2020-05-15,Manipur,1.0,1.0
+3,2020-05-16,Manipur,1.0,1.0
+4,2020-05-17,Manipur,1.0,1.0
+5,2020-05-18,Manipur,1.0,1.0
+6,2020-05-19,Manipur,1.0,1.0
+7,2020-05-20,Manipur,1.0,1.0
+8,2020-05-21,Manipur,1.0,1.0
+9,2020-05-22,Manipur,1.0,1.0
+10,2020-05-23,Manipur,1.0,1.0
+11,2020-05-24,Manipur,1.0,1.0
+12,2020-05-25,Manipur,1.0,1.0
+13,2020-05-26,Manipur,1.0,1.0
+14,2020-05-27,Manipur,1.0,1.0
+15,2020-05-28,Manipur,1.0,1.0
+16,2020-05-29,Manipur,1.0,1.0
+17,2020-05-30,Manipur,1.0,1.0
+18,2020-05-31,Manipur,1.0,1.0
+0,2020-05-13,Mizoram,1.0,1.0
+1,2020-05-14,Mizoram,1.0,1.0
+2,2020-05-15,Mizoram,1.0,1.0
+3,2020-05-16,Mizoram,1.0,1.0
+4,2020-05-17,Mizoram,1.0,1.0
+5,2020-05-18,Mizoram,1.0,1.0
+6,2020-05-19,Mizoram,1.0,1.0
+7,2020-05-20,Mizoram,1.0,1.0
+8,2020-05-21,Mizoram,1.0,1.0
+9,2020-05-22,Mizoram,1.0,1.0
+10,2020-05-23,Mizoram,1.0,1.0
+11,2020-05-24,Mizoram,1.0,1.0
+12,2020-05-25,Mizoram,1.0,1.0
+13,2020-05-26,Mizoram,1.0,1.0
+14,2020-05-27,Mizoram,1.0,1.0
+15,2020-05-28,Mizoram,1.0,1.0
+16,2020-05-29,Mizoram,1.0,1.0
+17,2020-05-30,Mizoram,1.0,1.0
+18,2020-05-31,Mizoram,1.0,1.0
+0,2020-05-13,Andaman and Nicobar Islands,1.0,1.0
+1,2020-05-14,Andaman and Nicobar Islands,1.0,1.0
+2,2020-05-15,Andaman and Nicobar Islands,1.0,1.0
+3,2020-05-16,Andaman and Nicobar Islands,1.0,1.0
+4,2020-05-17,Andaman and Nicobar Islands,1.0,1.0
+5,2020-05-18,Andaman and Nicobar Islands,1.0,1.0
+6,2020-05-19,Andaman and Nicobar Islands,1.0,1.0
+7,2020-05-20,Andaman and Nicobar Islands,1.0,1.0
+8,2020-05-21,Andaman and Nicobar Islands,1.0,1.0
+9,2020-05-22,Andaman and Nicobar Islands,1.0,1.0
+10,2020-05-23,Andaman and Nicobar Islands,1.0,1.0
+11,2020-05-24,Andaman and Nicobar Islands,1.0,1.0
+12,2020-05-25,Andaman and Nicobar Islands,1.0,1.0
+13,2020-05-26,Andaman and Nicobar Islands,1.0,1.0
+14,2020-05-27,Andaman and Nicobar Islands,1.0,1.0
+15,2020-05-28,Andaman and Nicobar Islands,1.0,1.0
+16,2020-05-29,Andaman and Nicobar Islands,1.0,1.0
+17,2020-05-30,Andaman and Nicobar Islands,1.0,1.0
+18,2020-05-31,Andaman and Nicobar Islands,1.0,1.0
+0,2020-05-13,Goa,1.0,1.0
+1,2020-05-14,Goa,1.0,1.0
+2,2020-05-15,Goa,1.0,1.0
+3,2020-05-16,Goa,1.0,1.0
+4,2020-05-17,Goa,1.0,1.0
+5,2020-05-18,Goa,1.0,1.0
+6,2020-05-19,Goa,1.0,1.0
+7,2020-05-20,Goa,1.0,1.0
+8,2020-05-21,Goa,1.0,1.0
+9,2020-05-22,Goa,1.0,1.0
+10,2020-05-23,Goa,1.0,1.0
+11,2020-05-24,Goa,1.0,1.0
+12,2020-05-25,Goa,1.0,1.0
+13,2020-05-26,Goa,1.0,1.0
+14,2020-05-27,Goa,1.0,1.0
+15,2020-05-28,Goa,1.0,1.0
+16,2020-05-29,Goa,1.0,1.0
+17,2020-05-30,Goa,1.0,1.0
+18,2020-05-31,Goa,1.0,1.0
+0,2020-05-13,Assam,1.0,1.0
+1,2020-05-14,Assam,1.0,1.0
+2,2020-05-15,Assam,1.0,1.0
+3,2020-05-16,Assam,1.0,1.0
+4,2020-05-17,Assam,1.0,1.0
+5,2020-05-18,Assam,1.0,1.0
+6,2020-05-19,Assam,1.0,1.0
+7,2020-05-20,Assam,1.0,1.0
+8,2020-05-21,Assam,1.0,1.0
+9,2020-05-22,Assam,1.0,1.0
+10,2020-05-23,Assam,1.0,1.0
+11,2020-05-24,Assam,1.0,1.0
+12,2020-05-25,Assam,1.0,1.0
+13,2020-05-26,Assam,1.0,1.0
+14,2020-05-27,Assam,1.0,1.0
+15,2020-05-28,Assam,1.0,1.0
+16,2020-05-29,Assam,1.0,1.0
+17,2020-05-30,Assam,1.0,1.0
+18,2020-05-31,Assam,1.0,1.0
+0,2020-05-13,Jharkhand,1.0,1.0
+1,2020-05-14,Jharkhand,1.0,1.0
+2,2020-05-15,Jharkhand,1.0,1.0
+3,2020-05-16,Jharkhand,1.0,1.0
+4,2020-05-17,Jharkhand,1.0,1.0
+5,2020-05-18,Jharkhand,1.0,1.0
+6,2020-05-19,Jharkhand,1.0,1.0
+7,2020-05-20,Jharkhand,1.0,1.0
+8,2020-05-21,Jharkhand,1.0,1.0
+9,2020-05-22,Jharkhand,1.0,1.0
+10,2020-05-23,Jharkhand,1.0,1.0
+11,2020-05-24,Jharkhand,1.0,1.0
+12,2020-05-25,Jharkhand,1.0,1.0
+13,2020-05-26,Jharkhand,1.0,1.0
+14,2020-05-27,Jharkhand,1.0,1.0
+15,2020-05-28,Jharkhand,1.0,1.0
+16,2020-05-29,Jharkhand,1.0,1.0
+17,2020-05-30,Jharkhand,1.0,1.0
+18,2020-05-31,Jharkhand,1.0,1.0
+0,2020-05-13,Arunachal Pradesh,1.0,1.0
+1,2020-05-14,Arunachal Pradesh,1.0,1.0
+2,2020-05-15,Arunachal Pradesh,1.0,1.0
+3,2020-05-16,Arunachal Pradesh,1.0,1.0
+4,2020-05-17,Arunachal Pradesh,1.0,1.0
+5,2020-05-18,Arunachal Pradesh,1.0,1.0
+6,2020-05-19,Arunachal Pradesh,1.0,1.0
+7,2020-05-20,Arunachal Pradesh,1.0,1.0
+8,2020-05-21,Arunachal Pradesh,1.0,1.0
+9,2020-05-22,Arunachal Pradesh,1.0,1.0
+10,2020-05-23,Arunachal Pradesh,1.0,1.0
+11,2020-05-24,Arunachal Pradesh,1.0,1.0
+12,2020-05-25,Arunachal Pradesh,1.0,1.0
+13,2020-05-26,Arunachal Pradesh,1.0,1.0
+14,2020-05-27,Arunachal Pradesh,1.0,1.0
+15,2020-05-28,Arunachal Pradesh,1.0,1.0
+16,2020-05-29,Arunachal Pradesh,1.0,1.0
+17,2020-05-30,Arunachal Pradesh,1.0,1.0
+18,2020-05-31,Arunachal Pradesh,1.0,1.0
+0,2020-05-13,Tripura,1.0,1.0
+1,2020-05-14,Tripura,1.0,1.0
+2,2020-05-15,Tripura,1.0,1.0
+3,2020-05-16,Tripura,1.0,1.0
+4,2020-05-17,Tripura,1.0,1.0
+5,2020-05-18,Tripura,1.0,1.0
+6,2020-05-19,Tripura,1.0,1.0
+7,2020-05-20,Tripura,1.0,1.0
+8,2020-05-21,Tripura,1.0,1.0
+9,2020-05-22,Tripura,1.0,1.0
+10,2020-05-23,Tripura,1.0,1.0
+11,2020-05-24,Tripura,1.0,1.0
+12,2020-05-25,Tripura,1.0,1.0
+13,2020-05-26,Tripura,1.0,1.0
+14,2020-05-27,Tripura,1.0,1.0
+15,2020-05-28,Tripura,1.0,1.0
+16,2020-05-29,Tripura,1.0,1.0
+17,2020-05-30,Tripura,1.0,1.0
+18,2020-05-31,Tripura,1.0,1.0
+0,2020-05-13,Meghalaya,1.0,1.0
+1,2020-05-14,Meghalaya,1.0,1.0
+2,2020-05-15,Meghalaya,1.0,1.0
+3,2020-05-16,Meghalaya,1.0,1.0
+4,2020-05-17,Meghalaya,1.0,1.0
+5,2020-05-18,Meghalaya,1.0,1.0
+6,2020-05-19,Meghalaya,1.0,1.0
+7,2020-05-20,Meghalaya,1.0,1.0
+8,2020-05-21,Meghalaya,1.0,1.0
+9,2020-05-22,Meghalaya,1.0,1.0
+10,2020-05-23,Meghalaya,1.0,1.0
+11,2020-05-24,Meghalaya,1.0,1.0
+12,2020-05-25,Meghalaya,1.0,1.0
+13,2020-05-26,Meghalaya,1.0,1.0
+14,2020-05-27,Meghalaya,1.0,1.0
+15,2020-05-28,Meghalaya,1.0,1.0
+16,2020-05-29,Meghalaya,1.0,1.0
+17,2020-05-30,Meghalaya,1.0,1.0
+18,2020-05-31,Meghalaya,1.0,1.0
+0,2020-05-13,Dadar Nagar Haveli,1.0,1.0
+1,2020-05-14,Dadar Nagar Haveli,1.0,1.0
+2,2020-05-15,Dadar Nagar Haveli,1.0,1.0
+3,2020-05-16,Dadar Nagar Haveli,1.0,1.0
+4,2020-05-17,Dadar Nagar Haveli,1.0,1.0
+5,2020-05-18,Dadar Nagar Haveli,1.0,1.0
+6,2020-05-19,Dadar Nagar Haveli,1.0,1.0
+7,2020-05-20,Dadar Nagar Haveli,1.0,1.0
+8,2020-05-21,Dadar Nagar Haveli,1.0,1.0
+9,2020-05-22,Dadar Nagar Haveli,1.0,1.0
+10,2020-05-23,Dadar Nagar Haveli,1.0,1.0
+11,2020-05-24,Dadar Nagar Haveli,1.0,1.0
+12,2020-05-25,Dadar Nagar Haveli,1.0,1.0
+13,2020-05-26,Dadar Nagar Haveli,1.0,1.0
+14,2020-05-27,Dadar Nagar Haveli,1.0,1.0
+15,2020-05-28,Dadar Nagar Haveli,1.0,1.0
+16,2020-05-29,Dadar Nagar Haveli,1.0,1.0
+17,2020-05-30,Dadar Nagar Haveli,1.0,1.0
+18,2020-05-31,Dadar Nagar Haveli,1.0,1.0
