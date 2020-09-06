@@ -25,6 +25,8 @@ For Indian regions, following methods were used for forecasting:
   - LASSO Regularisation
   - Ridge Regression
 
+Link for the codes of forecasting *[(Notebook)](https://github.com/G-akki26/COVID-19/blob/master/COVID_19.ipynb)*
+
 ## Results
 The results of the study and forecasts can be seen in the below public tableau workbooks:
   - [Global data results](https://public.tableau.com/profile/akshay.gidwani#!/vizhome/global_results/Dashboard1)
